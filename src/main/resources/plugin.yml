@@ -1,0 +1,4 @@
+name: SmartGun
+version: '${project.version}'
+main: com.gmail.aoibotowner.smartgun.SmartGun
+api-version: 1.16
